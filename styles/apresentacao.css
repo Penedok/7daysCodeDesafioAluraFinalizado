@@ -1,0 +1,20 @@
+.apresentacao{
+    text-align: center;
+    margin: 4em 10em;
+}
+.apresentacao__titulo{
+    color: var(--vermelho-botao);
+    font-weight: 600;
+    font-size: 14px;
+}
+.apresentacao__grande{
+    font-size: 48px;
+    font-weight: 600;
+    margin: 0.5em;
+}
+.apresentacao__texto{
+    padding: 1em;
+    display: inline-block;
+    width: 63%;
+    color: var(--azul-texto);
+}

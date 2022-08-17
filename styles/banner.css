@@ -1,0 +1,46 @@
+.banner{
+display: flex;  
+align-items: center;
+text-align: center;
+margin: 2em 4em;
+border: 1px solid transparent;
+background: rgba(196, 25, 25, 0.03);
+border-radius: 16px;
+box-sizing: border-box;
+flex-direction: column; 
+    
+}
+.banner__descricao{
+margin: 2em 2em;
+display: flex;  
+flex-direction: column;
+align-items: center;
+text-align:center ;
+
+}
+.banner__texto{
+   font-size:  36px;
+}
+.banner__titulo{
+    font-size: 14px;
+    font-weight: 600;
+    padding: 2em 0;
+    text-align: center;
+    color: var(--vermelho-botao);
+
+}
+
+.lista__banner{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ padding: 2em;
+ margin-bottom: 1em;
+}
+.lista__item{
+    padding: 0.3em;
+}
+.lista__item-2{
+ font-size: 14px;
+ color: var(--azul-texto);
+}

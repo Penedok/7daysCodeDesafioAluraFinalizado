@@ -1,0 +1,25 @@
+.apresentacao-segunda{
+    text-align: center;
+    margin: 8em 0 0 0 ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.segundo-titulo{
+    border: solid 1px var(--branco);
+    border-radius: 16px;
+    padding: 0.8em 1.5em;
+    font-size:14px;
+    background: rgba(142, 36, 36, 0.05);
+    border:transparent
+  
+}
+.segundo-grande{
+    font-size: 32px;
+}
+.segundo-texto{
+    margin-bottom: 2em;
+}
+.imagem__apresentacao{
+    width: 80%;
+}
